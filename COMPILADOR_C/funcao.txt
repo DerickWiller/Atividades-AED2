@@ -1,0 +1,17 @@
+include
+define
+main
+printf
+scanf
+if
+else
+for
+while
+switch
+case
+return
+float
+char
+bool
+double
+int

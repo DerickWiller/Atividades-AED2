@@ -1,0 +1,22 @@
+#inculde <stdio.h>
+
+// testando o comentario
+int main() {
+    int x = 10;
+    int y = 20;
+    int resultado;
+
+    resultado = x + y * 2;
+
+    printf(" # o resultado  e %d\n", resultado);
+
+    int *ptr;
+    *ptr = 100;
+
+    int num;
+    scaf("%d", &num);
+
+    prnitf("num");
+
+    return 1;
+}
